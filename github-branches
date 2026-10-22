@@ -1,0 +1,5 @@
+$ git branch -a -vv
+  bug-fix-typo        bc1ed91 Fix typo
+* main                ed93c1e [origin/main] Add pull request verification output
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main ed93c1e Add pull request verification output
